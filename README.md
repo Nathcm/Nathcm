@@ -4,7 +4,7 @@ My name is Nathalia. I'm a Information Sistems graduate.
 
 ### ⚡ Technologies
 
-Some technologies and tools that I'm enthusiastic about:
+Some technologies that I study and tools that I use:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
