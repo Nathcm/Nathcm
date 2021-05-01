@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nathalia. I'm a Information Sistems graduate.
+My name is Nathalia. I'm an Information Sistems graduate. 💻
 
 ### ⚡ Technologies
 
@@ -37,8 +37,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-Information Systems Undergraduate - Fullstack Developer Enthusiast: JavaScript & TypeScript, NodeJS (preferred environment), ReactJS and React-Native
 
 -->
