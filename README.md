@@ -1,23 +1,34 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Nathalia. I'm an Information Sistems graduate. 💻
 
-### ⚡ Technologies
+## 🛠  Technologies and tools
 
-Some technologies that I study and tools that I use:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C" alt="Bootstrap logo" title="Bootstrap" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Saas logo" title="Saas" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ReactNative-282C34?logo=react&logoColor=61DAFB" alt="React native logo" title="React Native" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node-282C34?logo=node.js&logoColor=339933" alt="Node logo" title="Node.js" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=FFF" alt="github logo" title="github" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+</div>
 
 <br>
 <div>
