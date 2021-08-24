@@ -20,9 +20,9 @@ Some technologies that I study and tools that I use:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <br>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathcm&layout=compact&theme=algolia" />
-</p>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathcm&layout=compact&theme=algolia" />
+</div>
 
 <!--
 **Nathcm/Nathcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
