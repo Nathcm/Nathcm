@@ -34,7 +34,8 @@ My name is Nathalia. I'm an Information Sistems graduated. 💻
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node logo" title="Node.js" height="25" />
 </div>
 
-<br>
+## 📖  GitHub Stats
+
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathcm&layout=compact&theme=algolia" />
 </div>
